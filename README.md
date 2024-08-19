@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Honorine Tuyishime!
 
-<!--
-**tuyishimehono/tuyishimehono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a software developer specializing in Javascript, React, TypeScript. I am driven by a deep curiosity for learning and problem-solving, I am always exploring new technologies to expand my skills and make meaningful contributions to exciting projects.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Tools:** Git, GitHub, VS Code, npm, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced React concepts
+- Backend basics with Node.js
+- Code quality Assurance
+
+## How to reach me
+(tuhonori1@gmail.com)[Email]
