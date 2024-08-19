@@ -12,5 +12,5 @@ I'm a software developer specializing in Javascript, React, TypeScript. I am dri
 - Backend basics with Node.js
 - Code quality Assurance
 
-## How to reach me
+### How to reach me
 [Email](tuhonori1@gmail.com)
