@@ -5,12 +5,9 @@ I'm a software developer specializing in Javascript, React, TypeScript. I am dri
 
 ### 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript, HTML, CSS
-- **Tools:** Git, GitHub, VS Code, npm, Figma
+- **Tools:** Git, GitHub, VS Code, npm, Figma, Toggl, Asana
 
 ### 🌱 Currently Learning
 - Advanced React concepts
 - Backend basics with Node.js
 - Code quality Assurance
-
-### How to reach me
-[Email](tuhonori1@gmail.com)
