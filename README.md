@@ -13,4 +13,4 @@ I'm a software developer specializing in Javascript, React, TypeScript. I am dri
 - Code quality Assurance
 
 ## How to reach me
-(Email)[tuhonori1@gmail.com]
+[Email](tuhonori1@gmail.com)
