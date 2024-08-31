@@ -5,7 +5,7 @@ I'm a software developer specializing in Javascript, React, TypeScript. I am dri
 
 ### 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript, HTML, CSS
-- **Tools:** Git, GitHub, VS Code, npm, Figma, Toggl, Asana
+- **Tools:** Git, GitHub, VS Code, npm, Figma, Toggl
 
 ### 🌱 Currently Learning
 - Advanced React concepts
