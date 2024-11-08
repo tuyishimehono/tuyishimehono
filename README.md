@@ -9,5 +9,5 @@ I'm a software developer specializing in Javascript, React, TypeScript. I am dri
 
 ### 🌱 Currently Learning
 - Advanced React concepts
-- Backend basics with Node.js
-- Nestjs basics
+- Backend with Node.js
+- Nestjs
