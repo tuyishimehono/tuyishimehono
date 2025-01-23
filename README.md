@@ -11,3 +11,4 @@ I'm a software developer specializing in Javascript, React, TypeScript. I am dri
 - Advanced React concepts
 - Backend with Node.js
 - Nestjs
+- Animation
