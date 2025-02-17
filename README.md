@@ -8,7 +8,6 @@ I'm a software developer specializing in Javascript, React, TypeScript. I am dri
 - **Tools:** Git, GitHub, VS Code, npm, Figma, Asana
 
 ### 🌱 Currently Learning
-- Advanced React concepts
 - NestJs
 - Animation
 - NextJs
