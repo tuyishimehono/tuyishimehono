@@ -7,7 +7,7 @@ I'm a software developer specializing in Javascript, React, NextJS. I am driven 
 ### 🛠️ Technologies & Tools
 - **Frontend:** ReactJS, TypeScript, HTML,Tailwind CSS 
 - **Backend:**: NestJs, NodeJs
-- **Tools:** Git, GitHub, VS Code, npm, Figma, Asana
+- **Tools:** Git, GitHub, VS Code, npm, Figma
 
 ### 🌱 Currently Learning
 - Prisma
